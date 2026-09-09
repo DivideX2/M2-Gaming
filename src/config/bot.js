@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "Custom Status", // required by Discord API, not shown in the client
         state: "Subcribe To @Official M2 Gaming",     // this is what people actually see
-        type: 2,               // Custom
+        type: 4,               // Custom
       },
     ],
   },
